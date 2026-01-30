@@ -2,8 +2,8 @@
 
 Im Leon, a Software Developer!
 
-Reach out to me:\n
-[![My Socials](https://skillicons.dev/icons?i=discord)](discordapp.com/users/1152202464339177544)
+Reach out to me:<br>
+[![My Socials](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1152202464339177544)
 [![My Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/leon-holzapfel-bb4b272a9/)
 <!--
 **LeonHolzapfel/LeonHolzapfel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
