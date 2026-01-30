@@ -2,7 +2,7 @@
 
 Im Leon, a Software Developer!
 
-Learning:
+Learning:<br>
 [![Java](https://skillicons.dev/icons?i=java)]()
 [![Python](https://skillicons.dev/icons?i=py)]()
 
