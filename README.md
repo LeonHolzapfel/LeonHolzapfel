@@ -3,8 +3,8 @@
 Im Leon, a Software Developer!
 
 Learning:<br>
-[![Java](https://skillicons.dev/icons?i=java)]()
-[![Python](https://skillicons.dev/icons?i=py)]()
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 
 Reach out to me:<br>
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1152202464339177544)
