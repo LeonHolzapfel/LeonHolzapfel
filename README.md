@@ -4,6 +4,7 @@ Im Leon, a Software Developer!
 
 Learning:<br>
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 
 Reach out to me:<br>
